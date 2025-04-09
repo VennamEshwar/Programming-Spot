@@ -9,4 +9,4 @@ Even those who have not studied related to software side, they also want to star
 •	Best practicing websites for coding (code chef, hacker rank)
 
 So instead of trying everything and selecting the best and spending a lot of time in choosing the best option that is where our website “Programming Spot” helps us a lot by showing all of these options in one place and saving our time in this competitive world by simplifying the options.
-Learning becomes easy when there is a clarity of what we are learning, how we are learning and how fast we are learning as a team we developed this website keeping the following aspects in our view
+Learning becomes easy when there is a clarity of what we are learning, how we are learning and how fast we are learning, so I developed this website keeping the following aspects in view.
